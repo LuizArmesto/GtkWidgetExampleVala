@@ -1,0 +1,5 @@
+.widgetexample {
+	color: red;
+	background-color: @base_color;
+	background-image: none;
+}
